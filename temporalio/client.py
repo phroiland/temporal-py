@@ -1,7 +1,5 @@
 """Client for accessing Temporal."""
 
-from __future__ import annotations
-
 import logging
 import uuid
 import warnings

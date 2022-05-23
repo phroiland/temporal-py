@@ -1,7 +1,5 @@
 """Worker for processing Temporal workflows and/or activities."""
 
-from __future__ import annotations
-
 import asyncio
 import concurrent.futures
 import itertools

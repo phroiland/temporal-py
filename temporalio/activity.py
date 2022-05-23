@@ -7,8 +7,6 @@ in another thread, should not use the calls herein unless the context is
 explicitly propagated.
 """
 
-from __future__ import annotations
-
 import asyncio
 import contextvars
 import logging

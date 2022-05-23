@@ -4,8 +4,6 @@ This invokes a "Kitchen Sink" workflow in an external worker. KS-prefixed class
 names refer to types for the "Kitchen Sink" workflow.
 """
 
-from __future__ import annotations
-
 import asyncio
 import os
 import uuid

@@ -1,7 +1,5 @@
 """RPC client using SDK Core."""
 
-from __future__ import annotations
-
 from dataclasses import dataclass
 from typing import Mapping, Optional, Type, TypeVar
 
