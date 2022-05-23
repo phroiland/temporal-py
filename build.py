@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Additional setup options for Poetry build."""
 
 import shutil
